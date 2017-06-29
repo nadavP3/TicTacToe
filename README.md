@@ -6,6 +6,6 @@ To run navigate to project's folder and type:<br>
 > $ ruby game.rb
 
 Enjoy! :smiley: <br>
-:o::x::o:<br>
-:x::o::x:<br>
-:o:
+|:x:|:o:|:x:|<br>
+|:o:|:x:|:o:|<br>
+|:x:|

@@ -7,5 +7,7 @@ To run navigate to project's folder and type:<br>
 
 Enjoy! :smiley: <br>
 |:x:|:o:|:x:|<br>
+-------------
 |:o:|:x:|:o:|<br>
+-------------
 |:x:|

@@ -1,4 +1,4 @@
-# Tic Tac Toe <br>
+# [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) <br>
 <img src="logo.png" align="right"/>
 
 Play against the computer or a friend
